@@ -1,0 +1,32 @@
+/* selector universal   *{}   */
+/* *{
+    color: red;
+} */
+
+/* selector de tipo */
+/* selectiona las etiquetas */
+/* h1{} p{} etc */
+
+/* slector de clases .clase{} */
+/* slector de id #{} */
+
+/* atributos personalizados */ 
+/* 
+<etiqueta atributo="propiedad">
+[atributo="propiedad"]{} 
+*/
+
+/* atributo descendiente */
+/* section p{} */
+/* section p{
+    color: red;
+} */
+
+/* pseudo clases */
+/* eventos de la seleción */
+/* : se lo puede hacer de manera descendiente */
+
+
+/* especificidad */
+/* toma siempre la última propiedad */
+
